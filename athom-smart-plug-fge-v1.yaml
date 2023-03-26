@@ -2,7 +2,7 @@ substitutions:
   device_name: "athom-smart-plug-v2"
   friendly_name: "Athom Smart Plug V2"
   project_name: "athom.fons.smart-plug"
-  project_version: "1.1"
+  project_version: "1.1ha"
   relay_restore_mode: RESTORE_DEFAULT_OFF
 
 esphome:
